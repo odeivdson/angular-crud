@@ -1,3 +1,4 @@
+import { Router } from "@angular/router";
 import { ProductService } from "./../product.service";
 import { IProduct } from "./../product.model";
 import { Component, OnInit } from "@angular/core";
@@ -11,12 +12,11 @@ export class ProductReadComponent implements OnInit {
   products: IProduct[] | any;
   displayedColumns = ["id", "name", "price", "actions"];
 
-  constructor(private productService: ProductService) {}
+  constructor(private router: Router, private productService: ProductService) {}
 
   ngOnInit(): void {
     this.productService.read().subscribe((products) => {
       this.products = products;
-      console.log(this.products);
     });
   }
 }

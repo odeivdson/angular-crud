@@ -11,39 +11,14 @@
       "price": 12000.89
     },
     {
-      "id": 3,
       "name": "Sansung S20+",
-      "price": 5000.89
-    },
-    {
-      "name": "Geladeira v2",
-      "price": "3254.89",
-      "id": 4
-    },
-    {
-      "id": 5,
-      "name": "Geladeira",
-      "price": 3254.87
-    },
-    {
-      "name": "Caneca",
-      "price": "35.90",
-      "id": 6
-    },
-    {
-      "name": "Bicicleta monocromática",
-      "price": "23569.25",
-      "id": 7
-    },
-    {
-      "name": "Chocolate",
-      "price": "17.32",
-      "id": 8
+      "price": "5988.41",
+      "id": 3
     },
     {
       "name": "Batatinha",
-      "price": "2.98",
-      "id": 9
+      "price": "1.98",
+      "id": 4
     }
   ]
 }
