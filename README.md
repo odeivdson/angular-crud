@@ -7,13 +7,12 @@ Execução do projeto
 ```
 
 # Console 1:
-
 $ cd angular-crud
 $ cd backend
 $ npm run start
 
-# Console 2
-$cd angular-crud
+# Console 2:
+$ cd angular-crud
 $ cd frontend
 $ npm run start
 ```
