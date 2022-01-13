@@ -29,6 +29,21 @@
       "name": "Caneca",
       "price": "35.90",
       "id": 6
+    },
+    {
+      "name": "Bicicleta monocromática",
+      "price": "23569.25",
+      "id": 7
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 8
+    },
+    {
+      "name": "Batatinha",
+      "price": "2.98",
+      "id": 9
     }
   ]
 }
